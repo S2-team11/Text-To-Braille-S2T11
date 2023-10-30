@@ -156,12 +156,16 @@ disabilities.
 
 **Logisim:**
 
+Main :
 ![main](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/eb60dcd4-519b-4468-932e-6e006f1480a5)
 
+Converter :
 ![converter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/3f30b9a4-47b5-428b-9b32-d162b0f49f63)
 
+Delay : 
 ![Delay](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/d4a14560-51ea-4d43-9fcf-647acb2f6e42)
 
+Counter :
 ![Counter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/9daff273-9097-47ee-bd4a-92cb4e5fafc1)
 
 **Verilog code:**
@@ -265,7 +269,11 @@ endmodule
 **References**
 
 1\. https://www.asic-world.com/verilog/index.html
+
 2\. https://www.chipverify.com/tutorials/verilog
+
 3\. Digital Logic Design: Brown, Stephen, and Zvonko Vranesic. "Fundamentals of Digital Logic with Verilog Design." 
+
 4\. Digital Design With An Introduction to the Verilog HDL - M. Morris Mano and Michael D. Ciletti
+
 5\. https://vol.verilog.com/VOL/main.htm
