@@ -1,6 +1,4 @@
----
-subtitle: "**TEXT TO BRAILLE CONVERTER**"
----
+# TEXT TO BRAILLE CONVERTER
 
 **Team Members:**
 
