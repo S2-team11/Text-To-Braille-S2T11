@@ -1,6 +1,6 @@
 # TEXT TO BRAILLE CONVERTER
 
-**Team Members:**
+## Team Members:
 
 Semester : 3rd Sem B. Tech. CSE
 Section : S2
@@ -12,7 +12,7 @@ Section : S2
 3\. Rathod Smit Amitkumar, 221CS238, smit.221cs238@nitk.edu.in
 
 
-**Abstract:**
+## Abstract:
 
 This project aims to create a Text to Braille Converter using logic
 gates, integrated circuits (ICs), and advanced design techniques,
@@ -23,13 +23,13 @@ conversion, we see this component as a versatile building block for
 various Braille devices and systems, such as notetakers, refreshable
 Braille displays, and embossers.
 
-**Background**
+## Background
 
 When accessing printed information, visually impaired people frequently
 face formidable obstacles, and Braille, with its raised-dot tactile
 system, provides an essential means of communication.
 
-**Our unique contribution**
+## Our unique contribution
 
 Existing assistive technologies have primarily addressed converting
 Binary-Coded Decimal (BCD) numbers to Braille using logic gates and ICs,
@@ -37,14 +37,14 @@ leaving a significant gap in text conversion. We plan to fill this void
 by creating a Text to Braille Converter that uses logic gates,
 integrated circuits, and advanced design techniques.
 
-**Motivation**
+## Motivation
 
 The primary goal of our project is to create a robust and adaptable
 component capable of efficiently converting textual content into Braille
 patterns so that visually impaired people have more access to written
 text.
 
-**Summary**
+## Summary
 
 Our project is developing a Text to Braille Converter using logic gates,
 integrated circuits, and advanced design techniques to create a
@@ -53,7 +53,7 @@ fundamental component, we hope to improve accessibility, independence,
 and inclusivity for people with visual impairments in the future, paving
 the way for many innovative Braille solutions.
 
-**Brief Description:**
+## Brief Description:
 
 **Introduction:**
 
@@ -119,7 +119,7 @@ forget that its true power lies in its capacity to make the world a
 better place for everyone, irrespective of their abilities or
 disabilities.
 
-**Working:**
+## Working:
 
 |Alphabets/Numerals|Input Format|Encoded|<p>Braille</p><p>○ = 0</p><p>● = 1</p>|
 | :-: | :-: | :-: | :-: |
@@ -152,21 +152,24 @@ disabilities.
 
 ![flowchart](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/87d28f7b-7096-4aba-a7af-e4625fc169d0)
 
-**Logisim:**
-
+## Logisim:
 Main :
+--
 ![main](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/eb60dcd4-519b-4468-932e-6e006f1480a5)
-
+--
 Converter :
+--
 ![converter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/3f30b9a4-47b5-428b-9b32-d162b0f49f63)
-
+--
 Delay : 
+--
 ![Delay](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/d4a14560-51ea-4d43-9fcf-647acb2f6e42)
-
+--
 Counter :
+--
 ![Counter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/9daff273-9097-47ee-bd4a-92cb4e5fafc1)
-
-**Verilog code:**
+--
+## Verilog code:
 
 **Testbench:**
 
@@ -264,7 +267,7 @@ module top(alp, Of1, Of2, Of3, Of4, Of5, Of6);
 
 endmodule
 
-**References**
+## References
 
 1\. https://www.asic-world.com/verilog/index.html
 
