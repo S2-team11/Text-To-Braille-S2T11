@@ -2,7 +2,7 @@
 
 ## Team Members:
 
-Semester : 3rd Sem B. Tech. CSE
+Semester : 3rd Sem B. Tech. CSE<br/>
 Section : S2
 
 1\. Alen Basil Thelappilly, 221CS206, alenbasilthelappilly.221cs206@nitk.edu.in
