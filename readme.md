@@ -61,7 +61,7 @@
 
 ## Working description :
 <details>
-  <sumarry>details</sumarry>
+  <summary>details</summary>
   **Introduction:**
   
   In our ever-evolving world, technology continues to be a powerful force
