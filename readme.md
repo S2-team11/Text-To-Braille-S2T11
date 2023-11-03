@@ -185,6 +185,7 @@
 ## Verilog code:
 <details>
   <summary>details</summary>
+  
   **Testbench:**
   
   module main_tb;
