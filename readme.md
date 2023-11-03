@@ -27,13 +27,13 @@
   various Braille devices and systems, such as notetakers, refreshable
   Braille displays, and embossers.
 
-  ## Background
+  **Background**
   
   When accessing printed information, visually impaired people frequently
   face formidable obstacles, and Braille, with its raised-dot tactile
   system, provides an essential means of communication.
   
-  ## Our unique contribution
+  **Our unique contribution**
   
   Existing assistive technologies have primarily addressed converting
   Binary-Coded Decimal (BCD) numbers to Braille using logic gates and ICs,
@@ -41,14 +41,14 @@
   by creating a Text to Braille Converter that uses logic gates,
   integrated circuits, and advanced design techniques.
   
-  ## Motivation
+  **Motivation**
   
   The primary goal of our project is to create a robust and adaptable
   component capable of efficiently converting textual content into Braille
   patterns so that visually impaired people have more access to written
   text.
   
-  ## Summary
+  **Summary**
   
   Our project is developing a Text to Braille Converter using logic gates,
   integrated circuits, and advanced design techniques to create a
