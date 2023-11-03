@@ -13,7 +13,9 @@
   3\. Rathod Smit Amitkumar, 221CS238, smit.221cs238@nitk.edu.in
   
 </details>
+
 ## Abstract:
+
 <details>
   <summary>details</summary>
   This project aims to create a Text to Braille Converter using logic
