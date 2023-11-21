@@ -167,7 +167,7 @@
   <summary>details</summary>
   Main :
   --
-  ![main](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/eb60dcd4-519b-4468-932e-6e006f1480a5)
+  ![Snapshots/main.png](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/4249933660e01bb4933c287331a4871fd2fc09d4/Snapshots/main.png)
   --
   Converter :
   --
