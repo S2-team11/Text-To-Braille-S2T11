@@ -167,15 +167,18 @@
   <summary>details</summary>
   Main :
   --
-  ![Snapshots/main.png](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/4249933660e01bb4933c287331a4871fd2fc09d4/Snapshots/main.png)
+  
+   ![Snapshots/main.png](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/4249933660e01bb4933c287331a4871fd2fc09d4/Snapshots/main.png)
   --
   Converter :
   --
-  ![converter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/3f30b9a4-47b5-428b-9b32-d162b0f49f63)
+  
+   ![[converter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/3f30b9a4-47b5-428b-9b32-d162b0f49f63)](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/c1ac70bd42d6ea3be6482357a4dc9b9b22fbea84/Snapshots/converter.png)
   --
   Delay : 
   --
-  ![Delay](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/d4a14560-51ea-4d43-9fcf-647acb2f6e42)
+  
+   ![[Delay](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/d4a14560-51ea-4d43-9fcf-647acb2f6e42)](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/c1ac70bd42d6ea3be6482357a4dc9b9b22fbea84/Snapshots/Delay.png)
   --
   Counter :
   --
