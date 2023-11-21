@@ -157,8 +157,11 @@
   |X|00**1**00000000000000000000000|11000|<p>●●</p><p>○○</p><p>●●</p>|
   |Y|0**1**000000000000000000000000|11001|<p>●●</p><p>○●</p><p>●●</p>|
   |Z|**1**0000000000000000000000000|11010|<p>●○</p><p>○●</p><p>●●</p>|
+
+  Flowchart
+  --
   
-  ![flowchart](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/87d28f7b-7096-4aba-a7af-e4625fc169d0)
+  ![[flowchart](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/87d28f7b-7096-4aba-a7af-e4625fc169d0)](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/8f1c00fd382b7f3820590041626200436f521478/Snapshots/Flowchart.png)
   
 </details>
 
