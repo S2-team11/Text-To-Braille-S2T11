@@ -165,6 +165,7 @@
 ## Logisim Circuit Diagram :
 <details>
   <summary>details</summary>
+  
   Main :
   --
   
@@ -182,7 +183,8 @@
   --
   Counter :
   --
-  ![Counter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/9daff273-9097-47ee-bd4a-92cb4e5fafc1)
+  
+  ![[Counter](https://github.com/S2-team11/Text-To-Braille-S2T11/assets/148744908/9daff273-9097-47ee-bd4a-92cb4e5fafc1)](https://github.com/S2-team11/Text-To-Braille-S2T11/blob/5ebc70704a74ea2de9dc192780c60da77a2ec8cd/Snapshots/Counter.png)
   --
 </details>
 
